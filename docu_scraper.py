@@ -16,7 +16,7 @@
 #
 #
 #   Note: I ran into so trouble trying to access the vaules in <div id="pf15"...> and onwards
-#         so I have to separate loops that scrapes the pdf document from different number of pages:
+#         so I have two separate loops that scrapes the pdf document from different number of pages:
 #           one loop scrapes the first 20 pages and another loop that scrapes the last 12 pages
 ######################################
 
