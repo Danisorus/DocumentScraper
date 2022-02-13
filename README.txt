@@ -4,6 +4,8 @@ This is jsut a little fun project I decided to do because my mom wanted a way to
 However, I didn't want my mom paying for that and I also realized that the way the site was hostin the document was easily susceptible to web scraper when I looked at its html code.
 That's when I deceide to create my own web scrapping bot the scrape the entire 32 page pdf on the website and store all that information into a word document.
 
+I later did some data cleaning and formating of the word document for readability, which I then converted the word doc to a pdf
+
 I have attached the source for my work along with the jupyter notebook incase anyone would like to test my code.
 
 Note: I ran into so trouble trying to access the vaules in <div id="pf15"...> and onwards
